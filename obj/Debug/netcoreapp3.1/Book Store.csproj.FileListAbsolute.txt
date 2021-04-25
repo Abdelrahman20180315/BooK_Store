@@ -1,0 +1,171 @@
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.exe
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.deps.json
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.runtimeconfig.json
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.runtimeconfig.dev.json
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.pdb
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.Views.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.Views.pdb
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.csprojAssemblyReference.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.AssemblyInfoInputs.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.AssemblyInfo.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.csproj.CoreCompileInputs.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorAssemblyInfo.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorAssemblyInfo.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\staticwebassets\Book Store.StaticWebAssets.Manifest.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\staticwebassets\Book Store.StaticWebAssets.xml
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\scopedcss\bundle\Book Store.styles.css
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.TagHelpers.input.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.TagHelpers.output.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorCoreGenerate.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorTargetAssemblyInfo.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.RazorTargetAssemblyInfo.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.Views.pdb
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.csproj.CopyComplete
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.pdb
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.genruntimeconfig.cache
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Author\Index.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Author\Details.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Author\Create.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\libman.json
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Author\Edit.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Author\Delete.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Validation.cshtml.g.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Book Store.StaticWebAssets.xml
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\obj\Debug\netcoreapp3.1\Book Store.MvcApplicationPartsAssemblyInfo.cs
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Faculty Projects\C# and Asp.net  Projects\Book Store\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
